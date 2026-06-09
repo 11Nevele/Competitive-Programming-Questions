@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Good Triplets", "Good Triplets.vcxproj", "{164CE9CD-46B4-4F14-83A9-B2B27D7FE255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164CE9CD-46B4-4F14-83A9-B2B27D7FE255}.Debug|x64.ActiveCfg = Debug|x64
+		{164CE9CD-46B4-4F14-83A9-B2B27D7FE255}.Debug|x64.Build.0 = Debug|x64
+		{164CE9CD-46B4-4F14-83A9-B2B27D7FE255}.Debug|x86.ActiveCfg = Debug|Win32
+		{164CE9CD-46B4-4F14-83A9-B2B27D7FE255}.Debug|x86.Build.0 = Debug|Win32
+		{164CE9CD-46B4-4F14-83A9-B2B27D7FE255}.Release|x64.ActiveCfg = Release|x64
+		{164CE9CD-46B4-4F14-83A9-B2B27D7FE255}.Release|x64.Build.0 = Release|x64
+		{164CE9CD-46B4-4F14-83A9-B2B27D7FE255}.Release|x86.ActiveCfg = Release|Win32
+		{164CE9CD-46B4-4F14-83A9-B2B27D7FE255}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70FADABE-DFE6-403A-8B64-A7D7B8B523B7}
+	EndGlobalSection
+EndGlobal

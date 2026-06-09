@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lasers and Mirrors G", "Lasers and Mirrors G.vcxproj", "{48CE1AD6-0FBA-4BBE-841A-DAC5D7AEBF88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CE1AD6-0FBA-4BBE-841A-DAC5D7AEBF88}.Debug|x64.ActiveCfg = Debug|x64
+		{48CE1AD6-0FBA-4BBE-841A-DAC5D7AEBF88}.Debug|x64.Build.0 = Debug|x64
+		{48CE1AD6-0FBA-4BBE-841A-DAC5D7AEBF88}.Debug|x86.ActiveCfg = Debug|Win32
+		{48CE1AD6-0FBA-4BBE-841A-DAC5D7AEBF88}.Debug|x86.Build.0 = Debug|Win32
+		{48CE1AD6-0FBA-4BBE-841A-DAC5D7AEBF88}.Release|x64.ActiveCfg = Release|x64
+		{48CE1AD6-0FBA-4BBE-841A-DAC5D7AEBF88}.Release|x64.Build.0 = Release|x64
+		{48CE1AD6-0FBA-4BBE-841A-DAC5D7AEBF88}.Release|x86.ActiveCfg = Release|Win32
+		{48CE1AD6-0FBA-4BBE-841A-DAC5D7AEBF88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {127CD0A4-F0B7-4701-8C87-5FF6932AFBD7}
+	EndGlobalSection
+EndGlobal

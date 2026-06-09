@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Splitting the Field", "Splitting the Field.vcxproj", "{C5CC3B71-1CE9-452F-9892-859D5E809731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5CC3B71-1CE9-452F-9892-859D5E809731}.Debug|x64.ActiveCfg = Debug|x64
+		{C5CC3B71-1CE9-452F-9892-859D5E809731}.Debug|x64.Build.0 = Debug|x64
+		{C5CC3B71-1CE9-452F-9892-859D5E809731}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5CC3B71-1CE9-452F-9892-859D5E809731}.Debug|x86.Build.0 = Debug|Win32
+		{C5CC3B71-1CE9-452F-9892-859D5E809731}.Release|x64.ActiveCfg = Release|x64
+		{C5CC3B71-1CE9-452F-9892-859D5E809731}.Release|x64.Build.0 = Release|x64
+		{C5CC3B71-1CE9-452F-9892-859D5E809731}.Release|x86.ActiveCfg = Release|Win32
+		{C5CC3B71-1CE9-452F-9892-859D5E809731}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42C2847-F2DB-42C6-85BE-E00ED388D91B}
+	EndGlobalSection
+EndGlobal

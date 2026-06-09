@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fertilizing Pastures", "Fertilizing Pastures.vcxproj", "{1FFB97C6-DEA1-446A-96BE-4A9EB3C75915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFB97C6-DEA1-446A-96BE-4A9EB3C75915}.Debug|x64.ActiveCfg = Debug|x64
+		{1FFB97C6-DEA1-446A-96BE-4A9EB3C75915}.Debug|x64.Build.0 = Debug|x64
+		{1FFB97C6-DEA1-446A-96BE-4A9EB3C75915}.Debug|x86.ActiveCfg = Debug|Win32
+		{1FFB97C6-DEA1-446A-96BE-4A9EB3C75915}.Debug|x86.Build.0 = Debug|Win32
+		{1FFB97C6-DEA1-446A-96BE-4A9EB3C75915}.Release|x64.ActiveCfg = Release|x64
+		{1FFB97C6-DEA1-446A-96BE-4A9EB3C75915}.Release|x64.Build.0 = Release|x64
+		{1FFB97C6-DEA1-446A-96BE-4A9EB3C75915}.Release|x86.ActiveCfg = Release|Win32
+		{1FFB97C6-DEA1-446A-96BE-4A9EB3C75915}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {923A52F9-C904-4804-B384-0DC1ABEC3877}
+	EndGlobalSection
+EndGlobal

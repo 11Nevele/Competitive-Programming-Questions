@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "It's Mooin' Time", "It's Mooin' Time\It's Mooin' Time.vcxproj", "{3C474A1E-4033-41BA-B246-6D724AA90A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C474A1E-4033-41BA-B246-6D724AA90A98}.Debug|x64.ActiveCfg = Debug|x64
+		{3C474A1E-4033-41BA-B246-6D724AA90A98}.Debug|x64.Build.0 = Debug|x64
+		{3C474A1E-4033-41BA-B246-6D724AA90A98}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C474A1E-4033-41BA-B246-6D724AA90A98}.Debug|x86.Build.0 = Debug|Win32
+		{3C474A1E-4033-41BA-B246-6D724AA90A98}.Release|x64.ActiveCfg = Release|x64
+		{3C474A1E-4033-41BA-B246-6D724AA90A98}.Release|x64.Build.0 = Release|x64
+		{3C474A1E-4033-41BA-B246-6D724AA90A98}.Release|x86.ActiveCfg = Release|Win32
+		{3C474A1E-4033-41BA-B246-6D724AA90A98}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5E2B07-3333-4260-99CB-B96455EDA512}
+	EndGlobalSection
+EndGlobal

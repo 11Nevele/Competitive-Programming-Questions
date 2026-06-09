@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2D Conveyer Belt", "2D Conveyer Belt\2D Conveyer Belt.vcxproj", "{697618B7-281B-49B2-9C3C-4DF5BB4A13FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697618B7-281B-49B2-9C3C-4DF5BB4A13FC}.Debug|x64.ActiveCfg = Debug|x64
+		{697618B7-281B-49B2-9C3C-4DF5BB4A13FC}.Debug|x64.Build.0 = Debug|x64
+		{697618B7-281B-49B2-9C3C-4DF5BB4A13FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{697618B7-281B-49B2-9C3C-4DF5BB4A13FC}.Debug|x86.Build.0 = Debug|Win32
+		{697618B7-281B-49B2-9C3C-4DF5BB4A13FC}.Release|x64.ActiveCfg = Release|x64
+		{697618B7-281B-49B2-9C3C-4DF5BB4A13FC}.Release|x64.Build.0 = Release|x64
+		{697618B7-281B-49B2-9C3C-4DF5BB4A13FC}.Release|x86.ActiveCfg = Release|Win32
+		{697618B7-281B-49B2-9C3C-4DF5BB4A13FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5717E5-6740-4CE5-B837-BB1567A5D40D}
+	EndGlobalSection
+EndGlobal
